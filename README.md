@@ -226,23 +226,6 @@ Use `.NS`
 
 ---
 
-# 📷 Dashboard Screenshots
-
-Add screenshots here:
-
-## Home Dashboard
-![Dashboard Screenshot](images/dashboard.png)
-
-## Candlestick Chart
-![Candlestick Chart](images/candlestick.png)
-
-## Moving Average Analysis
-![Moving Average](images/moving_average.png)
-
-## Daily Returns
-![Daily Returns](images/daily_returns.png)
-
----
 
 # 📈 Dashboard Functionalities
 
